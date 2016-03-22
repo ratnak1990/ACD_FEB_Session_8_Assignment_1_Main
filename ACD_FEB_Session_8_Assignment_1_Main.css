@@ -1,0 +1,78 @@
+#SystemForm
+{
+    height:400px;
+    width:650px;
+    background: rgb(230, 236, 255);
+    text-align: left;
+    margin-left: 10px;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+.register{
+    float: left;
+}
+
+#login {
+    float: left;
+    width:300px;
+    height: 275px;
+    background: rgb(30, 61, 123);
+    margin-left: 25px;
+    padding-left: 20px;
+    color: white;
+}
+
+.username,.password{
+    width:250px;
+    height: 20px;
+   
+}
+
+.forgotPassword {
+    margin-left: 185px;
+    font-size: 10px;
+    color: white;
+}
+
+.getRegistered {
+    width:90px;
+    height:30px;
+    border: 2px solid rgb(30, 61, 123);
+    background: rgb(230, 236, 255);
+    margin-left: 165px;
+    box-shadow: 2px 2px 1px rgb(30, 61, 123);
+}
+
+.loginButton {
+    
+    width:90px;
+    height:30px;
+    border: 2px solid rgb(255, 153, 0); 
+    background: rgb(30, 61, 123);
+    margin-left: 30px;
+    box-shadow: 2px 0px 0px rgb(255, 153, 0);
+    color: white;
+}
+.username1,.password1,.email,.confirmPassword{
+    width:250px;
+    height: 20px;
+    border: 2px solid rgb(204, 0, 0);
+   box-shadow: 1px 1px 0px rgb(204, 0, 0);
+}
+header{
+    color: rgb(30, 61, 123);
+    font-family: Calibri;
+}
+p{
+    color: darkgray;
+    font-size: 15px;
+    font-family: Calibri;
+}
+.textRegister{
+    
+    color:rgb(30, 61, 123);
+}
+.text1{
+    color:rgb(138, 138, 92);
+}
